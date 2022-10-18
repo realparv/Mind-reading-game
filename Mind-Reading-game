@@ -1,0 +1,61 @@
+/* Smart Guessing Program Created by Parv */
+
+import java.util.Scanner;
+
+  public class Main {
+
+	public static void main(String[] args) {		System.out.println("Welcome to Mind Reading Game");
+
+		System.out.println("------------Let's Start----------");
+
+		System.out.println("Think Any  Whole Number Between 1 to 10");
+
+		System.out.println("Hope You Done!");
+
+			System.out.println("-----------I am Reading--------------");
+
+				System.out.println("By The Way What's Your Name😄:");
+
+				Scanner a=new Scanner(System.in);
+
+				String name=a.next();
+
+				System.out.println( name  +"  is a nice name 👌😄");
+
+				System.out.println("Press ok to get Rules");
+
+					String b=a.next();
+
+				System.out.println("Now  " + name+ " Double your Number by Multiplying with 2 ");
+
+				System.out.println("Press k to next");
+
+					String c=a.next();
+
+				System.out.println("Now Multiple your answer with 5");
+
+				
+
+				System.out.println("Press ok ,I  am Hypnotizing you 😵😵😁");
+
+					String gun=a.next();
+
+				System.out.println("Divide your answer with your chosen Number");
+
+					System.out.println("Press k to next");
+
+					String d=a.next();
+
+				System.out.println("Now Minus with 5");
+
+				System.out.println("----------------Easy😅 Peasy--------");
+
+				System.out.println("Enter ok (°^-^) last time🤔");
+
+				String bus=a.next();
+
+				System.out.println("××××IS YOUR  ANSWER  IS  5×××× ");
+
+	}
+
+}
